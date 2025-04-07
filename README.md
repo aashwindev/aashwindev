@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aashwindev
-- 👀 I’m interested in building new stuff
-- 🌱 I’m currently learning new things and tech + business
-- 💞️ I’m looking to collaborate on anything interesting or boring
-- 📫 How to reach me [my linkedin](https://www.linkedin.com/in/aashwindev/)
+- @aashwindev here
+- building cool stuff
+- currently learning new things in tech + business
+- I’m open to collaborate on anything interesting and/or scalable
+- How to reach me? [my linkedin](https://www.linkedin.com/in/aashwindev/)
 
 <!---
 aashwindev/aashwindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
