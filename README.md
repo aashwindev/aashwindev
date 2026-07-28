@@ -1,14 +1,14 @@
-aashwin - building AI that reasons about humans and physical systems
+aashwin — building AI that reasons about people.
 
-19. previously: ISRO (rockets, remote sensing), $12M infra sales, AI products at scale.
+previously: ISRO (rockets, remote sensing), $12M in government contracts won at 17, 40+ enterprise customers at Elite HQ, 5k WAU on an AI clone of my professor.
+
+building: [cortex](https://makecortex.com) — clone your best people into an API. One person's judgment, callable by humans and AI agents over chat, voice, live meetings, REST, and MCP. 
+20 paying customers, 6 companies.
 
 currently exploring:
 - cognitive modeling for LLMs (belief states, theory-of-mind, intent)
 - world models + physical reasoning
-- evals for scientific discovery
-
-building:
-[Cortex](https://makecortex.com) - Enables systems built around real people: how they think, what they know, and how they communicate. Essentially an exhaustive clone of a person's intelligence.
+- evals that measure judgment, not generic competence
 
 **links:** [personal website](https://aashwin.dev) · [x](https://x.com/aashwindev) · [linkedin](https://linkedin.com/in/aashwindev)
 
