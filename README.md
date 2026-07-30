@@ -10,6 +10,8 @@ currently exploring:
 - world models + physical reasoning
 - evals that measure judgment, not generic competence
 
+winner, [India's first World Model Hackathon](https://github.com/aashwindev/convergence) (Inception) — [demo](https://drive.google.com/file/d/1hibRnnqgeoNAy90njfhmBM2gYil2ScOr/view)
+
 **links:** [personal website](https://aashwin.dev) · [x](https://x.com/aashwindev) · [linkedin](https://linkedin.com/in/aashwindev)
 
 <p align="center">
